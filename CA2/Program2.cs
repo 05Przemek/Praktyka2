@@ -13,6 +13,7 @@ namespace MyApp
             Console.WriteLine("");
             Console.BackgroundColor = ConsoleColor.Green;
             Console.WriteLine("Dos");
+            Console.WriteLine("");
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.WriteLine("tres");
             Console.ResetColor();
@@ -21,6 +22,8 @@ namespace MyApp
             Console.Clear();
             Console.Title = "Druga strona";
             Console.Write("Linia 4");
+            Console.WriteLine("");
+            Console.BackgroundColor = ConsoleColor.RED;
             Console.WriteLine("Linia 5");
             Console.Write("Naciśnij dowolny przycisk, żeby zamknąć okno");
         }
