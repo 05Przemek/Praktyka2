@@ -1,0 +1,5 @@
+C:\Users\przem\Source\Repos\05Przemek\Praktyka2\CA2\obj\Release\net6.0\CA2.csproj.AssemblyReference.cache
+C:\Users\przem\Source\Repos\05Przemek\Praktyka2\CA2\obj\Release\net6.0\CA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\przem\Source\Repos\05Przemek\Praktyka2\CA2\obj\Release\net6.0\CA2.AssemblyInfoInputs.cache
+C:\Users\przem\Source\Repos\05Przemek\Praktyka2\CA2\obj\Release\net6.0\CA2.AssemblyInfo.cs
+C:\Users\przem\Source\Repos\05Przemek\Praktyka2\CA2\obj\Release\net6.0\CA2.csproj.CoreCompileInputs.cache

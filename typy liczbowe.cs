@@ -2,7 +2,7 @@
 
 namespace TypyLiczbowe
 {
-    internal class Program
+    class Program
     {
 		double wR;
 		int dzielna = 7;
