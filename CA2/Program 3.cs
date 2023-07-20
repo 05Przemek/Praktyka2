@@ -6,7 +6,8 @@ namespace MyApp
     {
         static void Main()
         {
-            int x = 7, int y;
+            int x = 7; 
+            int y;
             y = F(x);
         }
         static int F(int x)
