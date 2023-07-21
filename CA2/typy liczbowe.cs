@@ -4,11 +4,15 @@ namespace TypyLiczbowe
 {
 	class Program
 	{
-		double wR;
-		int dzielna = 5;
-	
-		wR = (float)dzielna / 2;
+        static void Main()
+		{
 
-		Console.WriteLine(wR);
+			double wR;
+			int dzielna = 5;
+	
+			wR = (float)dzielna / 2;
+
+			Console.WriteLine(wR);
+		}
 	}
 }

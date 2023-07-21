@@ -7,9 +7,11 @@ namespace Skip
 		static void Main()
 		{
 			Console.WriteLine("Podaj imie");
-			string Imie = Console.ReadLine();
+			string Imieuzytkownika = Console.ReadLine();
 
 
+			Console.Clear();
+			Console.WriteLine($"Witaj {Imieuzytkownika} !");
 		}
 	}
 }

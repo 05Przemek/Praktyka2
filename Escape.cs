@@ -6,7 +6,7 @@ namespace ConsoleR
     {
         static void Main()
         {
-            string Tytulksiązki = $"Polecam k\\siążkę {{0}} \ "Czysty kod\" Rob\erta C. Mar\ti\na";
+            string Tytulksiazki = $"Polecam k\\siążkę {{0}} \ "Czysty kod\" Rob\erta C. Mar\ti\na";
             Console.WriteLine(Tytulksiazki);
         }
 	}
