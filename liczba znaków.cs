@@ -8,9 +8,16 @@ namespace LiczbaZnakow
         {
             Console.WriteLine("Napisz coś");
             string input = Console.ReadLine();
-            int liczbaZnakow = input.Length;
-
-            Console.WriteLine("Liczba znaków w tym wierszu:" + liczbaZnakow);
+            
+            if (string.IsNullOrEmpty(input))
+            {
+                Console.WriteLine("Nie wpisałeś nic. -_-");
+            }
+            else
+            {
+                int liczbaZnakow = input.Length;
+                Console.WriteLine("Liczba znaków w tym wierszu: " + liczbaZnakow);
+            }
         }
 	}
 }
