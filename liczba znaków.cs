@@ -6,11 +6,11 @@ namespace LiczbaZnakow
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Napisz coś);
+            Console.WriteLine("Napisz coś");
             string input = Console.ReadLine();
-           
+            int liczbaZnakow = input.Length;
 
-
+            Console.WriteLine("Liczba znaków w tym wierszu: " + liczbaZnakow);
         }
 	}
 }
