@@ -1,8 +1,70 @@
 ﻿using System;
 
-public class Class1
+namespace Wisielec
 {
-	public Class1()
-	{
-	}
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] hangmanImages = {
+                @"
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========",
+                @"
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========",
+                @"
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========",
+                @"
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========",
+                @"
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========",
+                @"
+  +---+
+  |   |
+  O   |
+ /|\  |
+ /    |
+      |
+=========",
+                @"
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+========="
+            };
+            string[] slowa = 
+        }
+    }
 }
