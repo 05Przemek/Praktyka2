@@ -10,7 +10,7 @@ namespace LiczbaZnakow
             string input = Console.ReadLine();
             int liczbaZnakow = input.Length;
 
-            Console.WriteLine("Liczba znaków w tym wierszu: " + liczbaZnakow);
+            Console.WriteLine("Liczba znaków w tym wierszu:" + liczbaZnakow);
         }
 	}
 }
