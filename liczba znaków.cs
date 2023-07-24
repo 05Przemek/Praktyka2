@@ -6,6 +6,10 @@ namespace LiczbaZnakow
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(Napisz coś);
+            string input = Console.ReadLine();
+           
+
 
         }
 	}
