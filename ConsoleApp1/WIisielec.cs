@@ -65,7 +65,7 @@ namespace WisielecGame
 ========="
             };
 
-            string[] words = { "wisielec", "komputer", "programowanie", "rozwojowiec", "python" };
+            string[] words = File.ReadAllLines("words.txt");
             Random random = new Random();
             string wordToGuess = words[random.Next(words.Length)];
             char[] guessedLetters = new char[wordToGuess.Length];
