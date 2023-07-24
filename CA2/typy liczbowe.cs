@@ -1,7 +1,6 @@
 using System;
 
-namespace TypyLiczbowe
-{
+namespace MyApp
 	class Program
 	{
         static void Main()
